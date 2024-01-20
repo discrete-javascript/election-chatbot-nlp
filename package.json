@@ -1,0 +1,21 @@
+{
+  "name": "election-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.0.19",
+    "@langchain/openai": "^0.0.12",
+    "d3-dsv": "2",
+    "hnswlib-node": "^1.4.2",
+    "langchain": "^0.1.4",
+    "openai": "^4.24.7"
+  }
+}

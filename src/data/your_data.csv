@@ -1,0 +1,28 @@
+Test Case,Competency,Competecny,SS,Skill,Max score ,Difficulty level,Max score *Difficulty level ,Actual score,Actual score*difficulty level,,,,,,,,,,
+TC1,C4,C6,SS2,S1,10,2,20,10,20,,,,,,,,,,
+TC2,C8,,SS2,S1,10,3,30,10,30,,,,,,,,,,
+TC3,C6,,SS2,S1,10,2,20,10,20,,,,,,,,,,
+TC4,C8,,SS2,S1,10,1,10,10,10,,,,,,,,,,
+Total,,,,,,,80,,80,,100,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,C1,C3,C5,C7,C9,C11,C2,C4,C6,C8,C10,C12,C13,,,,,,
+Max Score,0,0,0,0,0,0,0,20,80,80,10,0,0,,,,,,
+Actual Score,0,0,0,0,0,0,0,20,40,40,0,0,0,,,,,,
+Proficiency score on each Competency,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,100,50,50,0,#DIV/0!,#DIV/0!,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+SS1,C1,C3,C5,C7,C9,C11,Total,SS2,C2,C4,C6,C8,C10,Total,,SS3,C12,C13,Total
+Proficiency on each competecny for this sub skill,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,,Proficiency on each competecny for this sub skill,0,100,50,50,0,200,,Proficiency on each competecny for this sub skill,#DIV/0!,#DIV/0!,#DIV/0!
+# of questions per competency,3,2,3,1,0,0,9,# of questions per competency,1,1,4,4,1,11,,# of questions per competency,1,1,2
+(Competecny Proficiency)* (No  of questions per competency),#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,(Competecny Proficiency)* (No  of questions per competency),0,100,200,200,0,500,,(Competecny Proficiency)* (No  of Questions per subskill),#DIV/0!,#DIV/0!,#DIV/0!
+SS1 Proficiency Score is,,,,,,,#DIV/0!,SS2 Proficiency Score is,,,,,,45.45454545,,SS2 Proficiency Score is,,,#DIV/0!
+,,,,,,,,,,,,,,,,,,,
+S1,SS1,SS2,SS3,Total,,,,,,,,,,,,,,,
+Proficiency on each Sub skill for Skill,0,45.45454545,0,0,,,,,,,,,Penalty percentage(5%),2.272727273,,,,,
+# of questions per subskill,17,11,2,30,,,,,,,,,,,,,,,
+(Subskill Proficiency)* (No  of Questions per subskill),0,500,0,500,,,User Email: penaltylearner25@yopmail.com,,,,,,,,,,,,
+Skill (S1) Proficiency Score is,,,,16.66666667,,,,,,,,,,,,,,,
