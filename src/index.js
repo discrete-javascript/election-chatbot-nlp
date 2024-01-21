@@ -55,6 +55,6 @@ console.log({ answer });
 
 /*
 {
-  answer: 'The president thanked Justice Stephen Breyer for his service and honored him for his dedication to the country.'
+  answer: 'The party name of candidate RADHAKRISHNAN, C.P. is BJP.'
 }
 */

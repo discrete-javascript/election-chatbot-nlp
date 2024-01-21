@@ -2,7 +2,7 @@ import { CSVLoader } from "langchain/document_loaders/fs/csv";
 import OpenAI from 'openai';
 
 const openai = new OpenAI({
-  apiKey: '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'
+  apiKey: 'YOUR_API_KEY'
 });
 // import { access } from 'fs/promises';
 
